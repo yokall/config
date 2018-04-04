@@ -1,0 +1,14 @@
+-et=4		#indent using 4 space tabs (default uses 4 spaces)
+-ci=0   	#Continuation indent is 4 cols
+
+-l=1000		#maximium line length is 1000 columns/characters
+
+-pt=2		#parentheses tightness i.e. no space at each side of brackets
+-sbt=2		#square Bracket tightness i.e. no space at each side of brackets
+
+-boc		#break at old commas i.e. lists will not be pulled on same line
+
+-nwls="."	#no-want-left-space at operator(s)
+-nwrs="."	#no-want-right-space at operator(s)
+
+--no-valign #don't allign assignments
